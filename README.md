@@ -20,6 +20,12 @@ The following boxplot illustrates the effect of Vitamin C dosage on tooth growth
 
 ![Tooth Growth Boxplot](toothgrowth_boxplot.png)
 
+## Histogram
+
+The histogram below shows the distribution of tooth length values in the dataset.
+
+![Tooth Length Histogram](toothgrowth_histogram.png)
+
 ## Dataset
 The ToothGrowth dataset contains observations on tooth growth in guinea pigs receiving different doses of Vitamin C through two delivery methods: orange juice (OJ) and ascorbic acid (VC).
 
