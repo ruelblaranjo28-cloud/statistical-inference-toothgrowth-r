@@ -14,6 +14,12 @@ The project includes:
 - Exploratory Data Analysis
 - Hypothesis testing using the ToothGrowth dataset
 
+## Visualization
+
+The following boxplot illustrates the effect of Vitamin C dosage on tooth growth.
+
+![Tooth Growth Boxplot](toothgrowth_boxplot.png)
+
 ## Dataset
 The ToothGrowth dataset contains observations on tooth growth in guinea pigs receiving different doses of Vitamin C through two delivery methods: orange juice (OJ) and ascorbic acid (VC).
 
