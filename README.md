@@ -1,4 +1,5 @@
 # Statistical Inference Analysis using R - ToothGrowth Dataset
+![ToothGrowth Boxplot](toothgrowth_boxplot.png)
 
 Author: Ruel Barredo Laranjo  
 Original Exercise: 2022  
