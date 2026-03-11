@@ -1,4 +1,4 @@
-# Statistical Inference Practice Project using R
+# Statistical Inference Analysis using R - ToothGrowth Dataset
 
 Author: Ruel Barredo Laranjo  
 Original Exercise: 2022  
