@@ -42,3 +42,9 @@ The ToothGrowth dataset contains observations on tooth growth in guinea pigs rec
 
 ## Learning Context
 This project was completed as a guided exercise from a statistical 
+
+## Conclusion
+The analysis of the ToothGrowth dataset shows that higher doses of Vitamin C lead to greater tooth growth in guinea pigs.
+A two-sample t-test comparing the two supplement types (Orange Juice and Vitamin C) produced a p-value of approximately 0.06, which is slightly above the 0.05 significance level.
+
+
